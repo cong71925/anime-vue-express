@@ -1,0 +1,1 @@
+export const getMD5 = (url: string) => new Promise<string | null>()
